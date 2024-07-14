@@ -2,26 +2,26 @@
 
 Bambino is a simple and user-friendly e-commerce platform built to sell baby clothes.
 
-## Inspiration
-
-- Uniqlo: [Uniqlo](https://www.uniqlo.com/id/id/)
-
 ## Links
 
+- Website: <https://bambino.budigunawan.com/>
+  - API Swagger: <https://bambino-api.budigunawan.com/swagger>
+- Repositories:
+  - Backend: [Bambino Backend Repository](https://github.com/budiigunawan/bambino-backend)
+  - Frontend: [Bambino Frontend Repository](https://github.com/budiigunawan/bambino-frontend)
 - UI Design: [Figma](https://www.figma.com/design/RnMTmQul8AerqRZ1DMrui9/budigunawan.com?node-id=171-109&t=iYWQbpRINrb9JdaU-1)
-- Frontend:
-  - Repo: [Bambino Frontend Repository](https://github.com/budiigunawan/bambino-frontend)
-  - Deployment: [Bambino Website](https://bambino.budigunawan.com/)
-- Backend:
-  - Repo: [Bambino Backend Repository](https://github.com/budiigunawan/bambino-backend)
-  - Deployment: [Bambino API](https://bambino-api.budigunawan.com/)
+ 
+Inspirations:
+
+- Uniqlo: [Uniqlo](https://www.uniqlo.com/id/id/)
+- Buttonscarves: [Buttonscarves](https://www.buttonscarves.com/)
 
 ## Features:
 
 - Home page:
 
   - Hero section
-  - Products cards section
+  - Product cards section
     - Product picture
     - Product name
     - Product price
@@ -43,11 +43,11 @@ Bambino is a simple and user-friendly e-commerce platform built to sell baby clo
     - Overview
     - Materials
   - Add to cart button
-  - People also viewed products cards
+  - People also viewed product cards
 
 - Shopping Cart Page:
 
-  - Order list
+  - Order lists
     - Image, title, price, quantity, total.
     - Remove item.
   - Checkout button
